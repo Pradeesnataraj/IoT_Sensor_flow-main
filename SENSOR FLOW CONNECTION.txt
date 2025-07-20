@@ -1,0 +1,7 @@
+                                                                        WATER FLOW SENSOR CONNECTION
+
+SENSOR FLOW TO ARDUINO
+
+Sensor +VE PIN Connected to 5V of ESP 32
+Sensor -VE PIN Connected to GND of ESP 32
+Sensor Signal PIN Connected to D2 of ESP 32
